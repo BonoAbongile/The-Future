@@ -2,7 +2,6 @@ html, body, header {
   height: 100%;
   width: 100%;
   scroll-behavior: smooth;
-  position:relative;
 }
 #intro {
  background-image: url("https://cdnb.artstation.com/p/assets/images/images/002/826/363/large/maydhavi-thakur-snoop.jpg?1466157286");
@@ -12,12 +11,6 @@ html, body, header {
  -o-background-size: cover;
  height: 100%;
  width: 100%;
-}
-@media query (max-width: 500px;) {
-  body {
-    font-size: 50px;
-  }
-
 }
 input {
   border: none;
