@@ -1,0 +1,71 @@
+html, body, header {
+  height: 100%;
+  width: 100%;
+  scroll-behavior: smooth;
+  position:relative;
+}
+#intro {
+ background-image: url("https://cdnb.artstation.com/p/assets/images/images/002/826/363/large/maydhavi-thakur-snoop.jpg?1466157286");
+ background-size: cover;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ height: 100%;
+ width: 100%;
+}
+@media query (max-width: 500px;) {
+  body {
+    font-size: 50px;
+  }
+
+}
+input {
+  border: none;
+}
+.mask {
+  padding-top: 200px;
+}
+input:focus {
+  padding: 40px;
+
+}
+footer {
+  background-color: black;
+  color: white;
+}
+.navbar {
+    background-color:#F00;
+    opacity: 0.8;
+}
+#contact form .form-group .form-control {
+  border: none;
+  border-bottom: 2px solid grey;
+  border-width: medium;
+}
+i {
+  float: left;
+}
+.map-container-2{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-2 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+#services {
+  background-image: url("http://www.rehabmusik.com/wp-content/uploads/2017/02/A-Reece-ft-Amanda-Black-%E2%80%93-Sebenza-610x608.jpg");
+
+}
+#contact {
+    background-image: url("https://i.pinimg.com/originals/9a/7a/1b/9a7a1b7e9970b6f51c2b1d476196ff45.jpg");
+    background-size: cover;
+}
+#projects {
+  background-image: url("http://hdqwalls.com/wallpapers/polygonal-abstract-red-dark-background-eo.jpg");
+}
