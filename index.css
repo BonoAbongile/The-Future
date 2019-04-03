@@ -12,6 +12,13 @@ html, body, header {
  height: 100%;
  width: 100%;
 }*/
+#carouselExampleControls {
+  z-index: -1;
+  position: absolute;
+  bottom: -50px;
+  right: 50px;
+  width: 100%;
+}
 input {
   border: none;
 }
