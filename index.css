@@ -28,9 +28,10 @@ html, body, header {
 #carouselExampleControls {
   z-index: -1;
   position: absolute;
-  bottom: -50px;
-  right: 50px;
   width: 100%;
+  bottom: -40px;
+  height: 100%;
+  right: 120px;
 }
 input {
   border: none;
