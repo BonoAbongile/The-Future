@@ -12,6 +12,19 @@ html, body, header {
  height: 100%;
  width: 100%;
 }*/
+@media (min-width: 360px){
+ #carouselExampleControls {
+    max-width: 1024px;
+    height: 100%;
+    position: absolute;
+    bottom: -50px;
+    right: 150px;
+
+}
+}
+.cava:hover {
+  color: red;
+}
 #carouselExampleControls {
   z-index: -1;
   position: absolute;
