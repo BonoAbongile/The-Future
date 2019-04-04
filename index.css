@@ -2,7 +2,7 @@ html, body, header {
   height: 100%;
   width: 100%;
   scroll-behavior: smooth;
-}/*
+}
 #intro {
  background-image: url("https://cdnb.artstation.com/p/assets/images/images/002/826/363/large/maydhavi-thakur-snoop.jpg?1466157286");
  background-size: cover;
@@ -11,27 +11,10 @@ html, body, header {
  -o-background-size: cover;
  height: 100%;
  width: 100%;
-}*/
-@media (min-width: 360px){
- #carouselExampleControls {
-    max-width: 1024px;
-    height: 100%;
-    position: absolute;
-    bottom: -50px;
-    right: 150px;
+}
 
-}
-}
 .cava:hover {
   color: red;
-}
-#carouselExampleControls {
-  z-index: -1;
-  position: absolute;
-  width: 100%;
-  bottom: -40px;
-  height: 100%;
-  right: 120px;
 }
 input {
   border: none;
