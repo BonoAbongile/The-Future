@@ -64,6 +64,7 @@ position: absolute;
 #contact {
     background-image: url("https://i.pinimg.com/originals/9a/7a/1b/9a7a1b7e9970b6f51c2b1d476196ff45.jpg");
     background-size: cover;
+    height: 900px;
 }
 #projects {
   background-image: url("http://hdqwalls.com/wallpapers/polygonal-abstract-red-dark-background-eo.jpg");
