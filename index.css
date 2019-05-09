@@ -56,7 +56,7 @@ width:100%;
 position:absolute;
 }
 #services {
-  background-image: url("http://www.rehabmusik.com/wp-content/uploads/2017/02/A-Reece-ft-Amanda-Black-%E2%80%93-Sebenza-610x608.jpg");
+  background-image:("reece-effect.png");
 
 }
 #contact {
