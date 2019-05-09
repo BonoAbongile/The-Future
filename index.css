@@ -57,6 +57,9 @@ position:absolute;
 }
 #services {
   background-image: url("bby-boi.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 #contact {
     background-image: url("https://i.pinimg.com/originals/9a/7a/1b/9a7a1b7e9970b6f51c2b1d476196ff45.jpg");
