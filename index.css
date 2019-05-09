@@ -29,7 +29,7 @@ input:focus {
 footer {
   background-color: black;
   color: white;
-  padding: 40px;
+  padding: 120px;
 }
 .navbar {
     background-color:#F00;
@@ -64,7 +64,6 @@ position: absolute;
 }
 #contact {
     background-image: url("list.png");
-    background-size: cover;
 }
 #projects {
   background-image: url("http://hdqwalls.com/wallpapers/polygonal-abstract-red-dark-background-eo.jpg");
