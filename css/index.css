@@ -57,14 +57,14 @@ width:100%;
 position:absolute;
 }
 #services {
-  background-image: url("bby-boi.png");
+  background-image: url("images/bby-boi.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 
 }
 #contact {
-    background-image: url("list.png");
+    background-image: url("images/list.png");
 
 }
 #projects {
