@@ -4,7 +4,7 @@ html, body, header {
   scroll-behavior: smooth;
 }
 #intro {
- background-image: url("https://cdnb.artstation.com/p/assets/images/images/002/826/363/large/maydhavi-thakur-snoop.jpg?1466157286");
+ background: linear-gradient(rgba(26,48,59, 0.80), rgba(26,48,59, 0.80)), url("https://cdnb.artstation.com/p/assets/images/images/002/826/363/large/maydhavi-thakur-snoop.jpg?1466157286");
  background-size: cover;
  -webkit-background-size: cover;
  -moz-background-size: cover;
